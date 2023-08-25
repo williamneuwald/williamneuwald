@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá!
 
-<!--
-**williamneuwald/williamneuwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Back-end**, cursando Ciência da Computação. Fala inglês. Aluno bolsista da [@CubosAcademy](https://cubos.academy/) no curso de Desenvolvimento de Software com foco em Back-end, onde os tópicos de ensino são:
 
-Here are some ideas to get you started:
+### JavaScript, Lógica de Programação, Banco de Dados, Postgre SQL, Node.js, Express, TypeScript, Git, Query Builder, API REST e Criptografia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### LinkedIn:
+[![https://www.linkedin.com/in/williamneuwald/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamneuwald/)
+
+### Email:
+<a href="william_neuwald@hotmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/2989/2989993.png" width="30px" />
+</a>
